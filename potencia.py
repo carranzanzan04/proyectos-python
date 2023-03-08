@@ -67,4 +67,4 @@ def pw(string,k):
           
 
     
-print(pw("a,b,c", 6))
+#print(pw("a,b,c", 6))
